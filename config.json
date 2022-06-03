@@ -1,0 +1,20 @@
+{
+    "ownerNumber": "6285336472823@s.whatsapp.net",
+    "ownerName": "Fabio",
+    "botName": "BiooBotZz",
+    "footer": "BioBotZz",
+    "sessionName": "Fabio",
+    "pathimg": "./media/logo.jpg",
+    "lolkey": "KaysaS",
+    "instagram": "Kepo Dek!",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    },
+    "sticker": {
+        "packname": "Created By",
+        "author": "BioBotZ"
+    }
+}
